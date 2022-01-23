@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "3a664ebe60f1d2c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6942cb63a51b4b51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "psychology/introduction/分析式思考.md",
+            "mode": "source"
+          }
+        },
+        "group": "0734a310e1346caa"
+      },
+      {
+        "id": "06ff98e81babe071",
+        "type": "split",
+        "children": [
+          {
+            "id": "728b84dcd79f01fd",
+            "type": "leaf",
+            "dimension": 75.85513078470825,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "mode": "preview"
+              }
+            },
+            "group": "0734a310e1346caa"
+          },
+          {
+            "id": "ef11d929cc35494a",
+            "type": "leaf",
+            "dimension": 24.144869215291745,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "0734a310e1346caa"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0c348b12fb48625",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e66cc99f3bf00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69df0dfe6746f005",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0808f8648dba48b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46b9f1c46532cc22",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4b577fb183be37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4160facdcf6c4082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6942cb63a51b4b51",
+  "lastOpenFiles": [
+    "分析式思考.md",
+    "自我知覺理論.md",
+    "自我瞭解：我是什麼樣的人B.md",
+    "自我察覺理論.md",
+    "自我概念的文化差異.md",
+    "相依自我觀.md",
+    "集體主義價值觀.md",
+    "個人主義價值觀.md",
+    "獨立自我觀.md",
+    "自我瞭解：我是什麼樣的人A.md"
+  ]
+}
