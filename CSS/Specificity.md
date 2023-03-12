@@ -1,0 +1,6 @@
+# Specificty
+
+1. inline
+2. id
+3. class
+4. type

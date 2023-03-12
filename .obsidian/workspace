@@ -4,49 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "6942cb63a51b4b51",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "psychology/introduction/分析式思考.md",
-            "mode": "source"
-          }
-        },
-        "group": "0734a310e1346caa"
-      },
-      {
         "id": "06ff98e81babe071",
         "type": "split",
         "children": [
           {
-            "id": "728b84dcd79f01fd",
-            "type": "leaf",
-            "dimension": 75.85513078470825,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "psychology/introduction/分析式思考.md",
-                "mode": "preview"
+            "id": "5c1e93a86dc4ca0b",
+            "type": "split",
+            "dimension": 78.81526104417671,
+            "children": [
+              {
+                "id": "728b84dcd79f01fd",
+                "type": "leaf",
+                "dimension": 48.45956354300384,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CSS/Selector.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "0734a310e1346caa"
+              },
+              {
+                "id": "244f7f9e986d2be3",
+                "type": "leaf",
+                "dimension": 51.54043645699616,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CSS/Selector.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "0734a310e1346caa"
               }
-            },
-            "group": "0734a310e1346caa"
+            ],
+            "direction": "vertical"
           },
           {
             "id": "ef11d929cc35494a",
             "type": "leaf",
-            "dimension": 24.144869215291745,
+            "dimension": 21.184738955823292,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/introduction/分析式思考.md",
+                "file": "CSS/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             },
             "group": "0734a310e1346caa"
@@ -92,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "right": {
     "id": "46b9f1c46532cc22",
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/introduction/分析式思考.md",
+                "file": "CSS/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6942cb63a51b4b51",
+  "active": "728b84dcd79f01fd",
   "lastOpenFiles": [
-    "分析式思考.md",
-    "自我知覺理論.md",
-    "自我瞭解：我是什麼樣的人B.md",
-    "自我察覺理論.md",
-    "自我概念的文化差異.md",
-    "相依自我觀.md",
-    "集體主義價值觀.md",
-    "個人主義價值觀.md",
-    "獨立自我觀.md",
-    "自我瞭解：我是什麼樣的人A.md"
+    "CSS/Specificity.md",
+    "JavaScript/Nullish coalescing operator(Double question mark).md",
+    "JavaScript/Conditional question mark operator.md",
+    "JavaScript/Number.md",
+    "JavaScript/Data types.md",
+    "JavaScript/Type Conversions.md",
+    "JavaScript/object.md",
+    "JavaScript/Symbol type.md",
+    "JavaScript/Logical operators.md",
+    "JavaScript/Optional chaining 'question mark.'.md"
   ]
 }

@@ -1,0 +1,2 @@
+jQuery運作模式/渲染DOM的方式和React不太一樣，為避免發生衝突，一般不會希望在React中使用jQuery。
+取代jQuery的Ajax的其中一個方法: Fetch Api。
