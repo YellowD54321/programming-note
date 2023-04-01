@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Services.md",
+                "file": "aws/Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,10 +157,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Services.md",
+                "file": "aws/Services.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "60fb45ae9f908fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/Serverless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69635e88db682f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f882f3c220121c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/More to Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7068b10ded05d652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/Global Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aca31c3cb1d37713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Asynchronous with loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "876c61579c58dce0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -169,35 +237,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Queue Service.md",
+                "file": "aws/SQS/Simple Queue Service.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e2f0b373e1a062f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       },
       {
-        "id": "6d18fde16074e250",
+        "id": "f4b3228fb2b262b1",
         "type": "tabs",
         "children": [
           {
-            "id": "4beec595b5bb7e29",
+            "id": "b4d22588d00432d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Notification Service.md",
-                "mode": "preview",
+                "file": "JavaScript/Asynchronous with loops.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -277,16 +337,42 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e2f0b373e1a062f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
+    }
+  },
+  "active": "69df0dfe6746f005",
   "lastOpenFiles": [
-    "Services.md",
-    "Simple Queue Service.md",
-    "Simple Notification Service.md",
-    "Microservices.md",
-    "Elastic Compute Cloud.md",
-    "Monolithic Applications.md",
-    "aws/Deployment Models for Cloud Computing.md",
+    "JavaScript/Asynchronous with loops.md",
+    "().md",
+    "JavaScript/promise.md",
+    "JavaScript/setInterval.md",
+    "JavaScript/prompt.md",
+    "aws/Global Infrastructure.md",
+    "JavaScript/addEventListener.md",
+    "JavaScript/alert.md",
+    "JavaScript/API.md",
+    "aws/More to Read.md",
+    "aws/Compute optimized instances.md",
+    "aws/SQS",
     "aws/EC2/Elastic Load Balancing, ELB.md",
+    "aws/SNS",
+    "aws/ECS",
+    "aws/SNS/Simple Notification Service.md",
+    "aws/Serverless.md",
+    "aws/Monolithic Applications.md",
+    "aws/EC2/Elastic Compute Cloud.md",
+    "aws/Services.md",
+    "aws/SQS/Simple Queue Service.md",
+    "aws/ECS/Elastic Container Service.md",
+    "aws/AWS Lambda.md",
+    "aws/Microservices.md",
+    "aws/Deployment Models for Cloud Computing.md",
     "aws/EC2/EC2 Pricing.md",
     "aws/EC2/Amazon EC2 Auto Scaling.md"
   ]
